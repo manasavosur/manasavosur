@@ -17,3 +17,6 @@ Passionate about designing and automating cloud infrastructure using AWS and Dev
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/manasavosur/snake-/output/github-contribution-grid-snake.svg)
+
+---
+Thanks for visiting!
