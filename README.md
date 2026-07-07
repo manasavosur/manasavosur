@@ -15,3 +15,6 @@ Passionate about designing and automating cloud infrastructure using AWS and Dev
 ---
 [![](https://komarev.com/ghpvc/?username=manasavosur&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/manasavosur/snake-/output/github-contribution-grid-snake.svg)
